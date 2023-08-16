@@ -25,15 +25,15 @@ limitations under the License.
 """
 
 threshold = float(input())
-gene_1 = input()
-gene_2 = input()
+dna_1 = input()
+dna_2 = input()
 
 count = 0
-for i, j in zip(gene_1, gene_2):
+for i, j in zip(dna_1, dna_2):
     if i == j:
         count += 1
 
-correlation = count / len(gene_1)
+correlation = count / len(dna_1)
 if correlation >= threshold:
     print("yes")
 else:
