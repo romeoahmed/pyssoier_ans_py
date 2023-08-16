@@ -8,5 +8,9 @@
 @Desc    :   None
 '''
 
+from math import floor
+
+# Suppose a cow eats x grass every day, and the pasture grows y grass every day.
+# 20y-(15*20)x = 10y-(20*10)x => y/x = (15*20-20*10)/(20-10)
 day = (15 * 20 - 20 * 10) / (20 - 10)
-print(int(day))
+print(floor(day))
