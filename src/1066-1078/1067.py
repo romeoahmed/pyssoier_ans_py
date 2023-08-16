@@ -25,5 +25,4 @@ limitations under the License.
 """
 
 names = ("张明", "王丽", "李刚", "唐华")
-for name in names:
-    print(name)
+print(*names, sep="\n")

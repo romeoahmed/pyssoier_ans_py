@@ -32,5 +32,4 @@ for i in range(1, n):
     nums_new.append(nums[i])
 nums_new.append(nums[0])
 
-for i in nums_new:
-    print(i, end=" ")
+print(*nums_new, sep=" ")

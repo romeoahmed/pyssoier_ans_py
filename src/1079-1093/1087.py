@@ -34,4 +34,4 @@ def bubbleSort(arr, length):
 length = int(input())
 nums = list(map(int, input().split()))
 sorted_nums = bubbleSort(nums, length)
-print(" ".join(map(str, sorted_nums)))
+print(*sorted_nums, sep=" ")

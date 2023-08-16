@@ -39,4 +39,4 @@ for i in range(2, int(input()) + 1):
     if isPrimeNum(i):
         primeNums.append(str(i))
 
-print(" ".join(primeNums))
+print(*primeNums, sep=" ")

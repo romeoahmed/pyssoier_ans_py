@@ -25,5 +25,4 @@ limitations under the License.
 """
 
 n = ["hello", "world"]
-for i in n:
-    print(i)
+print(*n, sep="\n")

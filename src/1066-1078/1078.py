@@ -34,4 +34,4 @@ for i in range(n):
     if len(persons) != 0:
         del_num = (del_num + m - 1) % len(persons)
 
-print(" ".join(out_persons))
+print(*out_persons, sep=" ")

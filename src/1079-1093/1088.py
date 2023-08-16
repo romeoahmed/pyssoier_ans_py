@@ -36,5 +36,4 @@ def getPerfectNum(n):
     return perfect_nums
 
 n = int(input())
-for i in getPerfectNum(n):
-    print(i)
+print(*getPerfectNum(n), sep="\n")

@@ -37,4 +37,4 @@ for index, value in enumerate(doors):
     if value:
         opened_doors.append(str(index + 1))
 
-print(" ".join(opened_doors))
+print(*opened_doors, sep=" ")

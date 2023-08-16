@@ -25,5 +25,4 @@ limitations under the License.
 """
 
 num_list = input().split()
-for i in reversed(num_list):
-    print(i, end=" ")
+print(*reversed(num_list), sep=" ")

@@ -32,5 +32,4 @@ for i in range(1, n):
         if nums[j] < nums[j + 1]:
             nums[j], nums[j + 1] = nums[j + 1], nums[j]
 
-for i in nums:
-    print(i)
+print(*nums, sep="\n")
