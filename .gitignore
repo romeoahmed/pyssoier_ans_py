@@ -207,7 +207,3 @@ _deps
 
 # VSCode
 .vscode/
-
-# Comipler generated files
-*.ilk
-*.pdb
