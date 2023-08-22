@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1038.py
-@Time    :   2023/08/16 15:10:50
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 for f in range(100, 106):
     c = 5 * (f - 32) / 9

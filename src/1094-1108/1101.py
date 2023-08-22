@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1101.py
-@Time    :   2023/08/16 21:10:48
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 threshold = float(input())
 dna_1 = input()

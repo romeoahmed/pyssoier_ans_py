@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1087.py
-@Time    :   2023/08/16 17:52:06
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 def bubbleSort(arr, length):
     for i in range(1, length):

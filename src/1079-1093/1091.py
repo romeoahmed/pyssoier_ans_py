@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1091.py
-@Time    :   2023/08/16 18:02:32
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 from fractions import Fraction
 a, b = map(int, input().split())

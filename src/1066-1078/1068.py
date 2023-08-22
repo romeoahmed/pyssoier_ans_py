@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1068.py
-@Time    :   2023/08/16 16:31:38
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 num_list = input().split()
 print(*reversed(num_list), sep=" ")

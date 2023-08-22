@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1089.py
-@Time    :   2023/08/16 17:58:03
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 def isPrimeNum(n):
     if (n == 2) or (n == 3):

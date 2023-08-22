@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1040.py
-@Time    :   2023/08/16 15:13:06
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 pi = 1
 for i in range(1,20001):

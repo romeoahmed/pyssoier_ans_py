@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1083.py
-@Time    :   2023/08/16 17:27:57
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 m, n = map(int, input().split())
 facts_m = []

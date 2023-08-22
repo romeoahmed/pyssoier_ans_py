@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1071.py
-@Time    :   2023/08/16 16:35:47
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 matches = (6, 2, 5, 5, 4, 5, 6, 3, 7, 6)
 for i in range(112):

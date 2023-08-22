@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1070.py
-@Time    :   2023/08/16 16:33:10
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 n = int(input())
 nums = list(map(int, input().split()))

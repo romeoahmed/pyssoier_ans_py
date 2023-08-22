@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1004.py
-@Time    :   2023/08/16 11:28:49
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 c = input()
 print("  ", c, sep="")

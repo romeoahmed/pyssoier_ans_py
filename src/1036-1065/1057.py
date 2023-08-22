@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1057.py
-@Time    :   2023/08/16 15:41:22
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 n = 0
 while True:

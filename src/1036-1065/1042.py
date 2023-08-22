@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1042.py
-@Time    :   2023/08/16 15:17:08
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 for i in range(1, int(input()) + 1):
     if i % 2 == 0:

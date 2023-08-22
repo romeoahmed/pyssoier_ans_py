@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1021.py
-@Time    :   2023/08/16 12:02:09
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 from math import floor
 

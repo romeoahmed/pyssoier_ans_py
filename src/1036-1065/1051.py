@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1051.py
-@Time    :   2023/08/16 15:31:09
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 true_num = int(input())
 while (input_num := int(input())) != true_num:

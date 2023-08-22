@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1076.py
-@Time    :   2023/08/16 16:50:08
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 heat = (95, 100, 122, 180, 245, 221)
 total = 0

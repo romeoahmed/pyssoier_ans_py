@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1088.py
-@Time    :   2023/08/16 17:55:00
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 def getPerfectNum(n):
     perfect_nums = []

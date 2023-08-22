@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1078.py
-@Time    :   2023/08/16 17:16:11
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 n, m = map(int, input().split())
 persons = [str(i) for i in range(1, n + 1)]

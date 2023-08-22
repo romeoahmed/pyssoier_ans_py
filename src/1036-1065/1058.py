@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1058.py
-@Time    :   2023/08/16 15:42:28
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 def fact(x, a = 1):
     if x == 0:

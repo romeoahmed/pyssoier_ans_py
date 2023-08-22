@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1069.py
-@Time    :   2023/08/16 16:32:23
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 rates = (0.0325, 0.03, 0.03, 0.02, 0.0175)
 money = int(input())

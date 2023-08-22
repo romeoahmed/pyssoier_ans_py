@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1015.py
-@Time    :   2023/08/16 11:55:36
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 num = int(input())
 a = num // 100

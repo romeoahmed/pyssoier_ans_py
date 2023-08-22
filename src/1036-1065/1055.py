@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1055.py
-@Time    :   2023/08/16 15:36:44
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 m = int(input())
 n = s = 0

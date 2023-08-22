@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1047.py
-@Time    :   2023/08/16 15:26:25
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 money = money_sum = 20
 who = 1

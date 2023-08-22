@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1104.py
-@Time    :   2023/08/16 21:42:20
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 c_reserved_words = (
     "auto", "break", "case", "char", "const",

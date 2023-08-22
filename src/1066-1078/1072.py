@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1072.py
-@Time    :   2023/08/16 16:40:35
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 hobbies = ("篮球", "羽毛球", "看书", "旅游", "音乐")
 print(*hobbies, sep="\n")

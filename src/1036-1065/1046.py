@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1046.py
-@Time    :   2023/08/16 15:22:59
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 for i in range(1, int(input()) + 1):
     for j in range(i):

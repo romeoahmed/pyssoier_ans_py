@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1067.py
-@Time    :   2023/08/16 16:30:45
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 names = ("张明", "王丽", "李刚", "唐华")
 print(*names, sep="\n")

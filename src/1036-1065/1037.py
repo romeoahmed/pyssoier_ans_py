@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1037.py
-@Time    :   2023/08/16 15:09:17
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 money = 0
 for i in range(1, 11):

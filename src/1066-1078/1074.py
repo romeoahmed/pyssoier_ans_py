@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1074.py
-@Time    :   2023/08/16 16:42:46
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 n = int(input())
 doors = [True for i in range(n)]

@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1010.py
-@Time    :   2023/08/16 11:45:04
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 age = int(input())
 quiet = int(input())

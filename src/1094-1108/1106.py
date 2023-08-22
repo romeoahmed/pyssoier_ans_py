@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1106.py
-@Time    :   2023/08/16 22:24:04
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 str_raw = input()
 str_encrypted = ""

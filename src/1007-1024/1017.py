@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1017.py
-@Time    :   2023/08/16 11:58:04
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 pi = 3.14159
 r = float(input())

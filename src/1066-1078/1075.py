@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1075.py
-@Time    :   2023/08/16 16:47:02
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 n = int(input())
 nums = tuple(map(int, input().split()))

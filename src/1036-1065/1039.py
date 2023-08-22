@@ -16,13 +16,6 @@ limitations under the License.
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@File    :   1039.py
-@Time    :   2023/08/16 15:11:39
-@Author  :   romeoahmed 
-@Version :   1.0
-@Desc    :   None
-"""
 
 l = int(input())
 h = int(input())
