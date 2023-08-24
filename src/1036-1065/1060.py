@@ -14,6 +14,6 @@ def isSquareNum(n):
 
 for a in range(1, 10):
     for b in range(1, 10):
-        num = 1000 * a + 100 * a + 10 * b + b
+        num = a * 1100 + b * 11
         if isSquareNum(num):
             print(num)
