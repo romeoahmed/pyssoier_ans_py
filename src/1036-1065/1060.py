@@ -8,12 +8,12 @@ Licensed under the MIT license. See LICENSE file in the project root for license
 
 from math import sqrt, floor
 
-def isPerfectSquare(x):
+def isSquareNum(x):
     y = floor(sqrt(x))
     return x == y ** 2
 
 for a in range(1, 10):
     for b in range(1, 10):
         num = 1000 * a + 100 * a + 10 * b + b
-        if isPerfectSquare(num):
+        if isSquareNum(num):
             print(num)
