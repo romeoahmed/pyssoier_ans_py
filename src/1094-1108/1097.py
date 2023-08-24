@@ -6,15 +6,15 @@ Licensed under the MIT license. See LICENSE file in the project root for license
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-sentence_1 = input()
-sentence_2 = input()
+s1 = input()
+s2 = input()
 
-sentence_1 = sentence_1.replace(" ", "")
-sentence_2 = sentence_2.replace(" ", "")
-sentence_1 = sentence_1.lower()
-sentence_2 = sentence_2.lower()
+s1 = s1.replace(" ", "")
+s2 = s2.replace(" ", "")
+s1 = s1.lower()
+s2 = s2.lower()
 
-if sentence_1 == sentence_2:
+if s1 == s2:
     print("YES")
 else:
     print("NO")
