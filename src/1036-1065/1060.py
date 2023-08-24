@@ -8,9 +8,9 @@ Licensed under the MIT license. See LICENSE file in the project root for license
 
 from math import sqrt, floor
 
-def isSquareNum(x):
-    y = floor(sqrt(x))
-    return x == y ** 2
+def isSquareNum(n):
+    root = sqrt(n)
+    return root == floor(root)
 
 for a in range(1, 10):
     for b in range(1, 10):
