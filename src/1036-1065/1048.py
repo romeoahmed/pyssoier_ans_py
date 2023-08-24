@@ -6,11 +6,12 @@ Licensed under the MIT license. See LICENSE file in the project root for license
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-num = input()
-num_new = ""
+num = int(input())
 
-for i in range(len(num) - 1, -1, -1):
-    num_new += num[i]
+reversedNum = 0
+while num != 0:
+    reversedNum *= 10
+    reversedNum += num % 10
+    num //= 10
 
-num_new = int(num_new)
-print(num_new)
+print(reversedNum)
