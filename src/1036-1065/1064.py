@@ -6,16 +6,15 @@ Licensed under the MIT license. See LICENSE file in the project root for license
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-def fact(n):
-    if n == 0:
-        return 1
-    result = 1
-    for i in range(1, n + 1):
-        result *= i
-    return result
+n = int(input())
+sum = 0
+tmp = 1
 
-num = 0
-for i in range(1, int(input()) + 1):
-    num += fact(i)
+for i in range(1, n + 1):
+    tmp *= i
+    tmp %= 1000000
 
-print(num % 1000000)
+    sum += tmp
+    sum %= 1000000
+
+print(sum)

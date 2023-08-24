@@ -15,6 +15,5 @@ while i <= n:
         n /= i
     else:
         i += 1
-facts.sort()
 
 print(m, "=", "*".join(map(str, facts)), sep="")
