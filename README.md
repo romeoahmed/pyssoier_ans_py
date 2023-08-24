@@ -1,6 +1,7 @@
 # pyssoier_answer_py
 Some answers to questions from [pyssoier](http://py.ssoier.cn:7077/) written in **Python**.  
-You can get the source code in the **src** folder.  
+You can get the source code in the **src** folder.
+
 - [1001-1006](https://github.com/romeoahmed/pyssoier_answer_py/tree/main/src/1001-1006)
 
 - [1007-1024](https://github.com/romeoahmed/pyssoier_answer_py/tree/main/src/1007-1024)
