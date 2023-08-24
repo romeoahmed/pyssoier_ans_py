@@ -7,5 +7,15 @@ Licensed under the MIT license. See LICENSE file in the project root for license
 # -*- coding: utf-8 -*-
 
 n = int(input())
-result = str(1992 ** n)
-print(result[-2], result[-1], sep="")
+
+unitDigit = 1
+tenDigit = 0
+for i in range(n):
+    carry = 0
+    tmp = unitDigit * 1992
+    unitDigit = tmp % 10
+    carry = tmp // 10
+    tmp = tenDigit * 1992 + carry
+    tenDigit = tmp % 10
+
+print(tenDigit, unitDigit, sep="")
