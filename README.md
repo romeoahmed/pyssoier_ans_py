@@ -1,4 +1,13 @@
-# pyssoier_answer_py
+# Pyssoier Answer - Python Edition
+
+[![GitHub license](https://img.shields.io/github/license/romeoahmed/pyssoier_answer_py?style=flat)](https://github.com/romeoahmed/pyssoier_answer_py/tree/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/romeoahmed/pyssoier_answer_py?style=flat)](https://github.com/romeoahmed/pyssoier_answer_py/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/romeoahmed/pyssoier_answer_py?style=flat)](https://github.com/romeoahmed/pyssoier_answer_py/forks)
+[![GitHub issues](https://img.shields.io/github/issues/romeoahmed/pyssoier_answer_py?style=flat)](https://github.com/romeoahmed/pyssoier_answer_py/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/romeoahmed/pyssoier_answer_py?style=flat)](https://github.com/romeoahmed/pyssoier_answer_py/pulls)
+[![GitHub contributors](https://img.shields.io/github/contributors/romeoahmed/pyssoier_answer_py?style=flat)](https://github.com/romeoahmed/pyssoier_answer_py/graphs/contributors)
+
+## Introduction
 Some answers to questions from [pyssoier](http://py.ssoier.cn:7077/) written in **Python**.  
 You can get the source code in the **src** folder.
 
@@ -16,4 +25,6 @@ You can get the source code in the **src** folder.
 
 - [1094-1108](https://github.com/romeoahmed/pyssoier_answer_py/tree/main/src/1094-1108)
   
-This project is licensed under the terms of the **MIT** license.
+## License
+This project is licensed under the terms of the **MIT** license.  
+See the [LICENSE](https://github.com/romeoahmed/pyssoier_answer_py/blob/main/LICENSE) file for details.
