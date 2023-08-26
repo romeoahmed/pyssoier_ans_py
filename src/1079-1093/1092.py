@@ -12,14 +12,13 @@ def getFactors(n):
         if n % i == 0:
             factors.append(i)
             factors.append(int(n / i))
-    factors.sort()
     return factors
 
 def getAmiableNums():
-    for i in range(1, 300):
-        for j in range(1, 300):
+    for i in range(2, 300):
+        for j in range(2, 300):
             if sum(getFactors(i)) == j and sum(getFactors(j)) == i and i != j:
                 return [i, j]
 
 nums = getAmiableNums()
-print(nums[0], nums[1])
+print(*nums)
