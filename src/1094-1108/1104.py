@@ -7,11 +7,14 @@ Licensed under the MIT license. See LICENSE file in the project root for license
 # -*- coding: utf-8 -*-
 
 c_reserved_words = (
-    "auto", "break", "case", "char", "const",
-    "continue", "default", "do", "double", "else", "enum", 
-    "extern","float", "for", "goto", "if", "int", "long", "register", 
-    "return","short", "signed", "sizeof", "static", "struct", 
-    "switch", "typedef","union", "unsigned", "void", "volatile", "while"
+    "auto", "break", "case", "char",
+    "const", "continue", "default", "do",
+    "double", "else", "enum", "extern",
+    "float", "for", "goto", "if",
+    "int", "long", "register", "return",
+    "short", "signed", "sizeof", "static",
+    "struct", "switch", "typedef", "union",
+    "unsigned", "void", "volatile", "while"
 )
 
 def isLegitID(n):
