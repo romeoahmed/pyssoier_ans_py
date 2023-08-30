@@ -13,4 +13,4 @@ p1 = (l1 + l2 + l5) / 2
 p2 = (l3 + l4 + l5) / 2
 s = sqrt(p1*(p1-l1)*(p1-l2)*(p1-l5)) + sqrt(p2*(p2-l3)*(p2-l4)*(p2-l5))
 
-print("%.2f" % s)
+print(f"{s:.2f}")

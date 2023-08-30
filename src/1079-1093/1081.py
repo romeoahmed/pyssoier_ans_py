@@ -9,4 +9,4 @@ Licensed under the MIT license. See LICENSE file in the project root for license
 from math import pi
 r = float(input())
 s = pi * (r ** 2)
-print("%.2f" % s)
+print(f"{s:.2f}")

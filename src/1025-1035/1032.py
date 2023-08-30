@@ -16,4 +16,4 @@ elif 10 < n <= 16:
 elif n > 16:
     money = 5
 
-print("票价{}元".format(money))
+print(f"票价{money}元")

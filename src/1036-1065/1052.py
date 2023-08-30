@@ -13,4 +13,4 @@ for i in range(1, 10000):
     pi += 1 / (i ** 2)
 pi = math.sqrt(6 * pi)
 
-print("%.4f" % pi)
+print(f"{pi:.4f}")

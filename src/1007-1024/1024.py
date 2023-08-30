@@ -8,4 +8,4 @@ Licensed under the MIT license. See LICENSE file in the project root for license
 
 x, a, y, b = map(int, input().split())
 z = (b * y - a * x) / (b - a)
-print("%.2f" % z)
+print(f"{z:.2f}")

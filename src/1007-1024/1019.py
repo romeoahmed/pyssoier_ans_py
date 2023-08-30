@@ -9,4 +9,4 @@ Licensed under the MIT license. See LICENSE file in the project root for license
 max_score = 9.6 * 6 - 9.4 * 5
 min_score = 9.6 * 6 - 9.8 * 5
 mean_score = (9.6 * 6 - max_score - min_score) / (6 - 2)
-print("%5.2f" % mean_score)
+print(f"{mean_score:5.2f}")

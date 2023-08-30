@@ -8,4 +8,4 @@ Licensed under the MIT license. See LICENSE file in the project root for license
 
 x, y = map(int, input().split())
 score = (x * 87 + y * 85) / (x + y)
-print("%.4f" % score)
+print(f"{score:.4f}")

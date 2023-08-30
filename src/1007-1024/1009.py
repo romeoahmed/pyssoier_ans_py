@@ -7,4 +7,4 @@ Licensed under the MIT license. See LICENSE file in the project root for license
 # -*- coding: utf-8 -*-
 
 saved = (3 + 5) * int(input()) * (1 - 0.8)
-print("%.2f" % saved)
+print(f"{saved:.2f}")

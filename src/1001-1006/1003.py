@@ -9,4 +9,4 @@ Licensed under the MIT license. See LICENSE file in the project root for license
 f = float(input())
 if f >= -459.67:
     c = 5 * (f - 32) / 9
-    print("%.2f" % c)
+    print(f"{c:.2f}")

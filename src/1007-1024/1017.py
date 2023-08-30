@@ -13,4 +13,4 @@ if r > 0 and r <= 10000:
     c = pi * d
     s = pi * (r ** 2)
 
-    print("%.4f %.4f %.4f" % (d, c, s))
+    print(f"{d:.4f} {c:.4f} {s:.4f}")

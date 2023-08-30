@@ -10,4 +10,4 @@ rates = (0.0325, 0.03, 0.03, 0.02, 0.0175)
 money = int(input())
 for i in rates:
     money += money * i
-print("%.2f" % money)
+print(f"{money:.2f}")

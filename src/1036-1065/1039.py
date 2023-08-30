@@ -14,4 +14,4 @@ if l >= h:
 else:
     for f in range(l, h):
         c = 5 * (f - 32) / 9
-        print("%8d%10.2f" % (f, c))
+        print(f"{f:8}{c:10.2f}")

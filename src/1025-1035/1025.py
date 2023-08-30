@@ -16,4 +16,4 @@ elif s >= 11:
 else:
     money = s * p
 
-print("%.1f" % money)
+print(f"{money:.1f}")

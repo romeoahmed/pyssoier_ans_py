@@ -19,4 +19,4 @@ for i in nums:
         min = i
 mean = nums_sum / count
 
-print("%d %d %.3f" % (min, max, mean))
+print(f"{min} {max} {mean:.3f}")

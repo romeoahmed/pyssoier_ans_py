@@ -22,4 +22,5 @@ for i in range(len(l)):
         l[i-1] += l[i]
 
 for j in l:
-    print("%5d" % j, end="")
+    print(f"{j:5}", end="")
+print()

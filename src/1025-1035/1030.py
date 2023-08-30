@@ -10,6 +10,6 @@ n = int(input())
 
 isLeapYear = lambda n: True if n % 400 == 0 or (n % 100 != 0 and n % 4 == 0) else False
 if isLeapYear(n):
-    print("{}年是闰年".format(n))
+    print(f"{n}年是闰年")
 else:
-    print("{}年不是闰年".format(n))
+    print(f"{n}年不是闰年")

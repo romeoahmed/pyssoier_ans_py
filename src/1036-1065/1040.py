@@ -14,4 +14,4 @@ for i in range(1,20001):
         pi *= i / (i + 1)
 pi *= 2
 
-print("%.4f" % pi)
+print(f"{pi:.4f}")

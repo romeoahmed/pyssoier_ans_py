@@ -11,4 +11,4 @@ a, b, c = map(float, input().split())
 max = lambda a, b, c: (a if a > c else c) if a > b else (b if b > c else c)
 m = max(a, b, c) / (max(a + b, b, c) * max(a, b, b + c))
 
-print("%.3f" % m)
+print(f"{m:.3f}")

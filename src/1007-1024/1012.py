@@ -9,4 +9,4 @@ Licensed under the MIT license. See LICENSE file in the project root for license
 n, m = map(int, input().split())
 m *= 0.8
 n -= m
-print("%.2f" % n)
+print(f"{n:.2f}")

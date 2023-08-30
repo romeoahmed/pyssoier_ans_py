@@ -23,5 +23,5 @@ elif 35 <= bmi < 40:
 else:
     situation = "极度肥胖"
 
-print("%.1f" % bmi)
+print(f"{bmi:.1f}")
 print(situation)
